@@ -1,0 +1,17 @@
+{
+  "name": "Movaio — Advertising That Moves With Your Audience",
+  "short_name": "Movaio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071126",
+  "theme_color": "#071126",
+  "description": "Software-powered digital advertising network for moving vehicles.",
+  "icons": [
+    {
+      "src": "assets/movaio-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
